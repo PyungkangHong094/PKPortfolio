@@ -1,0 +1,20 @@
+{
+  "header": {
+    "title": "Portfolio",
+    "subtitle": "Showcasing a collection of web and mobile projects, crafted with attention to detail and modern technologies"
+  },
+  "projects": {
+    "web": "Web Projects",
+    "app": "App Projects",
+    "viewDetails": "View Details",
+    "back": "Back to Projects",
+    "details": {
+      "title": "Project Details",
+      "period": "Period",
+      "team": "Team",
+      "stack": "Tech Stack",
+      "features": "Key Features",
+      "links": "Links"
+    }
+  }
+}
